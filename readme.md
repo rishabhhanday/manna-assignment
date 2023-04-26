@@ -32,7 +32,7 @@ docker run -p 8080:8080 rishabhhanday/manna-assignment
 ```
 
 - Using application already deployed on OpenShift
-  base url - http://sojern-assignment-rishhabhhanday-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/swagger-ui/
+  base url - http://manna-assignment-rishhabhhanday-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/swagger-ui/#/venue-controller/venueUsingPOST
 
 NOTE - If the application give 404 error it is because I am using OpenShift developer sandbox. PODs deployed in sandbox
 account are reduced to 0 every 24 hours.
