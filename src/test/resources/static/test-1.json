@@ -1,0 +1,281 @@
+[
+  {
+    "id": "46c8e135-305f-48fb-a2bc-a473f34e8d74",
+    "name": "Thunderland Showroom at Excalibur",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "capacity": 425,
+    "minimum_tour_duration_in_days": 2
+  },
+  {
+    "id": "d0893dbf-c8fa-4f4e-9c19-c8e8b01ad63f",
+    "name": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "capacity": 16800,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "9f41ef74-5387-4091-80db-5513c9d38b27",
+    "name": "Michelob Ultra Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "capacity": 12000,
+    "minimum_tour_duration_in_days": 2
+  },
+  {
+    "id": "3833b97b-c710-490e-9503-99911b5e3015",
+    "name": "T-Mobile Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "capacity": 15000,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "2f474d81-7fcb-454a-a5c5-4f2f1c74475e",
+    "name": "Dolby Theatre",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "capacity": 3400,
+    "minimum_tour_duration_in_days": 2
+  },
+  {
+    "id": "a37c40fe-509c-4e61-824f-d67c674de560",
+    "name": "Crypto.com Arena",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "capacity": 8000,
+    "minimum_tour_duration_in_days": 3
+  },
+  {
+    "id": "3c9f4393-cf8d-4f9a-987e-2e64233c72cb",
+    "name": "The Forum",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "capacity": 17500,
+    "minimum_tour_duration_in_days": 3
+  },
+  {
+    "id": "af9e37b9-6da3-4424-ad68-7bb536e9a2cd",
+    "name": "Microsoft Theater",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "capacity": 7100,
+    "minimum_tour_duration_in_days": 3
+  },
+  {
+    "id": "d78c624c-af69-4e96-990a-60710c234b5d",
+    "name": "Greek Theatre",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "capacity": 6000,
+    "minimum_tour_duration_in_days": 3
+  },
+  {
+    "id": "555c15dc-3731-487c-8e7f-603a226e0f22",
+    "name": "Hollywood Bowl",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "capacity": 17500,
+    "minimum_tour_duration_in_days": 3
+  },
+  {
+    "id": "ffd17be0-2aec-4193-b045-66013f737f50",
+    "name": "Climate Pledge Arena",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "capacity": 17200,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "6665379f-f0f7-45f2-8ecb-014ddd0660c1",
+    "name": "Paramount Theatre",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "capacity": 3000,
+    "minimum_tour_duration_in_days": 7
+  },
+  {
+    "id": "1997b3ac-2968-4dd5-a3c1-8e78b443b634",
+    "name": "Wamu Theatre",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "capacity": 12000,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "dedbb665-46ea-4d98-9b3a-909b79b25f39",
+    "name": "Carnegie Hall",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "capacity": 3600,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "227ad016-ca00-4f31-a75c-20c46d5d8000",
+    "name": "Beacon Theatre",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "capacity": 3000,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "6c092779-821d-4073-9543-bd5386c53a9c",
+    "name": "Radio City Music Hall",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "capacity": 6000,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "bfedce10-7f24-4159-a21c-5fd09a022dfe",
+    "name": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "capacity": 20000,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "3be689bc-f62f-4bb3-87b5-1bdb7dc1a2e2",
+    "name": "United Palace",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "capacity": 4000,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "802911d0-adc9-4961-a30d-8495ff4dc8ae",
+    "name": "Moody Center",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "capacity": 15000,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "48b9637f-cca2-462d-b70d-3d0f9c8d5189",
+    "name": "ACL Live",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "capacity": 2800,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "b164e339-ff89-4342-a23a-1d9a8a93ce54",
+    "name": "Erwin Events Center",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "capacity": 16000,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "ec2634d4-081a-4633-a993-788bd9a91b75",
+    "name": "Toyota Center",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "capacity": 18000,
+    "minimum_tour_duration_in_days": 1
+  },
+  {
+    "id": "5dd45907-54f4-4242-a6bb-e12559f82928",
+    "name": "TD Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "capacity": 19000,
+    "minimum_tour_duration_in_days": 2
+  },
+  {
+    "id": "9a0f4278-5632-4d9b-a31e-0500945e1b80",
+    "name": "Agganis Arena",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "capacity": 7200,
+    "minimum_tour_duration_in_days": 2
+  },
+  {
+    "id": "9e0bac88-7128-4034-9ff1-0729a125b62b",
+    "name": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "capacity": 14000,
+    "minimum_tour_duration_in_days": 2
+  },
+  {
+    "id": "65776022-c7d8-4135-a889-de753954079c",
+    "name": "Adrienne Arsht Center for the Performing Arts",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "capacity": 2400,
+    "minimum_tour_duration_in_days": 2
+  },
+  {
+    "id": "d2c6a5f6-7c8f-4202-81b9-c6537c827c54",
+    "name": "FTX Arena",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "capacity": 15000,
+    "minimum_tour_duration_in_days": 2
+  },
+  {
+    "id": "451976dc-bd76-4c99-8be7-338b4b18bb08",
+    "name": "FLA Arena",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "capacity": 21000,
+    "minimum_tour_duration_in_days": 2
+  },
+  {
+    "id": "43ca4b19-ef0a-4bde-8c2d-968699114f89",
+    "name": "United Center",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "capacity": 23000,
+    "minimum_tour_duration_in_days": 2
+  },
+  {
+    "id": "13732eca-464c-4935-84a3-ec41d87da9fc",
+    "name": "Allstate Arena",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "capacity": 18000,
+    "minimum_tour_duration_in_days": 2
+  },
+  {
+    "id": "30bf1cbd-be5c-4ff1-beb5-aed8361ba8fa",
+    "name": "Chicago Stadium",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "capacity": 14000,
+    "minimum_tour_duration_in_days": 2
+  }
+]
