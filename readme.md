@@ -41,6 +41,8 @@ account are reduced to 0 every 24 hours.
 - For localhost : http://localhost:8080/swagger-ui/
 - For application deployed on OpenShift : http://manna-assignment-rishhabhhanday-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/swagger-ui/#/venue-controller/venueUsingPOST
 
+NOTE - capcacity and maxNumberOfDays param is optional with default value of 15000 and 3 respectively.
+
 ### technology used
 
 - Spring boot
